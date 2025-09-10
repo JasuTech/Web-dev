@@ -24,3 +24,7 @@ h2{
     font-weight: 500;
     font-style: normal;
 }
+
+p{
+    font: italic small-caps bold 16px/2 cursive;
+}
